@@ -1,22 +1,22 @@
-# 🤖 PairWise AI — Intelligent Candidate Discovery & Ranking
+# PairWise AI — Intelligent Candidate Discovery & Ranking
 
 > India Runs Hackathon 2026 | Track 01: Data & AI Challenge
 > Team: PairWise AI | Hack2Skill × Redrob
 
 ---
 
-## 🎯 Problem Statement
+## Problem Statement
 Recruiters spend 60–80% of their time manually screening resumes.
 PairWise AI automates intelligent candidate discovery and ranking
 using semantic similarity and multi-factor scoring.
 
-## 🧠 How It Works
+## How It Works
 1. **Parse** — Extract structured data from resumes & job descriptions
 2. **Embed** — Convert text to semantic vectors (Sentence Transformers)
 3. **Rank** — Score candidates using cosine similarity + weighted factors
 4. **Visualize** — Interactive dashboard for recruiter insights
 
-## ⚙️ Tech Stack
+## Tech Stack
 | Layer | Technology |
 |---|---|
 | Embeddings | `sentence-transformers` |
@@ -26,7 +26,7 @@ using semantic similarity and multi-factor scoring.
 | Visualization | `Plotly` |
 | Data | `Pandas`, `NumPy` |
 
-## 🚀 Quick Start
+## Quick Start
 ```bash
 git clone https://github.com/YOUR_USERNAME/pairwise-ai.git
 cd pairwise-ai
