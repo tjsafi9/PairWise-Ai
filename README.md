@@ -114,4 +114,5 @@ streamlit run app/streamlit_app.py
 | **Challenge** | Intelligent Candidate Discovery & Ranking |
 | **Deadline** | July 2, 2026 |
 ```
+
 ---
