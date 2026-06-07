@@ -3,7 +3,7 @@
 > India Runs Hackathon 2026 | Track 01: Data & AI Challenge
 > Team: PairWise AI | Hack2Skill × Redrob
 
----
+![PairWise AI Logo](docs/logo.jpeg)
 
 ## Problem Statement
 Recruiters spend 60–80% of their time manually screening resumes.
