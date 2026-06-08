@@ -2,7 +2,7 @@
 
 <img src="docs/logo.jpeg" alt="PairWise AI Logo" width="200"/>
 
-# 🤖 PairWise AI
+#  PairWise AI
 ### Intelligent Candidate Discovery & Ranking System
 
 
